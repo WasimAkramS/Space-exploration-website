@@ -1,0 +1,32 @@
+@font-face {
+    src: url("SPACE MISSION.ttf");
+    font-family: Space;
+}
+
+body {
+    font-family: Space;
+    margin:0;
+}
+
+.btn {
+    font-family: Space;
+    font-size: larger;
+    padding:10px 25px;
+}
+
+.hero {
+    height: 100vh;
+    text-align: center;
+    background-image: url("space-nasa-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 300px;
+}
+
+h1 {
+    text-shadow: 0px 0px 5px white;
+    font-size:50px;
+}
